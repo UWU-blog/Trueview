@@ -27,4 +27,4 @@ If you have any questions about this Disclaimer, please contact Marco Liberale a
 
 The last update was on 3/1/2024 (DD/MM/YYYY).
 
-By using this repository, you acknowledge and agree that you have read, understood, and agreed to abide by this Disclaimer. If you do not agree with any part of this Disclaimer, you are not authorized to use or access the Repository.
+
