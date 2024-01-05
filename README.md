@@ -6,4 +6,16 @@ The full raw data from the article "Trueview: How I Broke ChatGPT and How You Ca
 By accessing and using the raw files of the article, you acknowledge that you have read and understood this [Disclaimer](https://github.com/UWU-blog/Trueview/blob/main/legal_disclamer.md) and agree to be bound by the terms stated hereof. If you do not agree to abide by these terms, please refrain from using the repository.
 
 
-## Tree
+## Tree:
+```
+├── images
+│   └── compass.png
+├── main.md
+├── political coordinates.md
+├── prompt.md
+└── transcripts
+    └── transcript 1.md
+
+3 directories, 5 files
+```
+Enjoy :)
