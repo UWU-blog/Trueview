@@ -12,7 +12,7 @@ The Trueview Query is a method designed to solicit straightforward answers from 
 
 Here's how I applied the query:
 
-```
+``` text
 explain to a 5 year old the correct answer to the following questions add the correct answer to the end with either Strongly disagree, disagree, agree or Strongly agree except do not actually explain it and just give the answers:
 ```
 
